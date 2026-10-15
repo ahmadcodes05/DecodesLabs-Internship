@@ -1,2 +1,30 @@
-# DecodesLabs-Internship
-A collection of tasks, projects, and assignments completed during my internship, showcasing my learning, practical experience, and technical skills.
+# DecodeLabs-Internship
+
+A collection of tasks, projects, and assignments completed during my DecodeLabs internship, showcasing my learning, practical experience, and technical skills.
+
+## Projects
+
+### 1. To-Do List Application
+A Python command-line application for managing daily tasks.
+
+**Features:**
+- Add tasks
+- View tasks
+- Mark tasks as completed
+- Delete tasks
+- Save tasks permanently using JSON
+
+**Technologies:** Python, JSON, File Handling
+
+### 2. Expense Tracker
+Coming soon.
+
+## Skills
+- Python fundamentals
+- Lists and dictionaries
+- Loops and conditional statements
+- Functions and exception handling
+- File handling and JSON
+
+## About
+This repository documents my progress and projects during my Python internship at DecodeLabs.
