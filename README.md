@@ -17,7 +17,16 @@ A Python command-line application for managing daily tasks.
 **Technologies:** Python, JSON, File Handling
 
 ### 2. Expense Tracker
-Coming soon.
+A Python command-line application for recording expenses and calculating total spending.
+
+**Features:**
+- Add expenses
+- View recorded expenses
+- Calculate total expenses
+- Save expenses permanently using JSON
+- Handle invalid inputs
+
+**Technologies:** Python, JSON, File Handling
 
 ## Skills
 - Python fundamentals
