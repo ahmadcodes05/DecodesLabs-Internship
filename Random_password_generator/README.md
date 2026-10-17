@@ -25,4 +25,4 @@ I created this project using Python to generate random passwords based on the le
 - Generating random passwords
 **Organization:** DecodeLabs  
 **Project:** 3 – Random Password Generator  
-**Batch:** 2026
+
