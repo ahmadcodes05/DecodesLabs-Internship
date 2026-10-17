@@ -1,0 +1,28 @@
+# Expense Tracker
+
+## Description
+A simple command-line Expense Tracker built with Python during my DecodeLabs internship.
+
+## Features
+- Add expenses
+- View recorded expenses
+- Calculate total expenses
+- Save expenses permanently using JSON
+- Handle invalid inputs
+
+## Technologies Used
+- Python
+- JSON
+- File Handling
+
+## How to Run
+1. Open the project in PyCharm.
+2. Run `expense_tracker.py`.
+3. Follow the menu options to manage expenses.
+
+## Skills Learned
+- Lists
+- Loops and conditional statements
+- Functions
+- Exception handling
+- JSON file storage	
